@@ -1,0 +1,2 @@
+body{font-family:sans-serif;margin:50px;padding:0;flex-direction:column;justify-content:center}#outer,body{display:flex;align-items:center}#outer{height:35px;width:100px;border:2px solid #000;border-radius:20px;margin:auto;position:relative;justify-content:flex-start;transition:all .5s}#inner{height:30px;width:30px;background-color:#000;border-radius:20px;transition:transform .5s}
+/*# sourceMappingURL=/csb-g90z9y/src.fffdef62.css.map */
